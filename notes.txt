@@ -1,0 +1,11 @@
+= is used for assigning values to a variable in JavaScript.
+== is used for comparison between two variables it does not check the data-type of the values
+=== is used for comparision between two variables but this will check data-type of the values
+
+
+
+In global and function scope both let and var behaves the same
+Var is accessible inside and outside block {}
+Let is only accessible inside block
+We use const when we have fix value. We can't reassign another value to the const
+
